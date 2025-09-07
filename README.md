@@ -1,6 +1,6 @@
 ## Heyyo i'm cait
 
-***About me***
+***About me*** 🧸
 
 <img align="right" width="200" height="200" alt="snow" src="https://media1.tenor.com/m/H_LEeykaHvUAAAAd/omg-your-so-cute.gif"/>
 

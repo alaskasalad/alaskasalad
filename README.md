@@ -2,7 +2,7 @@
 
 ***About me*** 🧸
 
-<img align="right" width="200" height="200" alt="snow" src="https://media1.tenor.com/m/H_LEeykaHvUAAAAd/omg-your-so-cute.gif"/>
+<img align="right" width="200" height="200" alt="snow" src="https://media1.tenor.com/m/2iPB5dm5D6oAAAAd/snow-leopard-cute.gif"/>
 
 I am a senior **Computer Science** and **History** student. I have experience as a web developer and I am expanding my knowledge in both back-end and front-end development. My goal is to do more projects from the ground up 
 - 🤍 I’m currently learning ...
